@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hiking-blog/static/css/main.5a84071e.css",
+    "main.js": "/hiking-blog/static/js/main.793117fb.js",
+    "static/js/453.419a5d54.chunk.js": "/hiking-blog/static/js/453.419a5d54.chunk.js",
+    "static/media/Hero.png": "/hiking-blog/static/media/Hero.2dc0c65c4e24b1bb1375.png",
+    "static/media/Background.png": "/hiking-blog/static/media/Background.1721a36d333e7ff792cf.png",
+    "static/media/img1_1.jpg": "/hiking-blog/static/media/img1_1.7618d2314fb98461016b.jpg",
+    "static/media/icon-1.png": "/hiking-blog/static/media/icon-1.a09de9105d382fc47f4f.png",
+    "index.html": "/hiking-blog/index.html",
+    "main.5a84071e.css.map": "/hiking-blog/static/css/main.5a84071e.css.map",
+    "main.793117fb.js.map": "/hiking-blog/static/js/main.793117fb.js.map",
+    "453.419a5d54.chunk.js.map": "/hiking-blog/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a84071e.css",
+    "static/js/main.793117fb.js"
+  ]
+}
